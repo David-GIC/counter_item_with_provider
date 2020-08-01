@@ -2,8 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'file:///D:/Project/Learn/testing_provider_package/lib/models/item.dart';
+import 'package:testing_provider_package/models/item.dart';
 
 class SummaryPage extends StatefulWidget {
   final List<Item> itemList;

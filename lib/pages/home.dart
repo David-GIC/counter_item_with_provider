@@ -3,11 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-
-import 'file:///D:/Project/Learn/testing_provider_package/lib/helper/page_route.dart';
-import 'file:///D:/Project/Learn/testing_provider_package/lib/models/item.dart';
-import 'file:///D:/Project/Learn/testing_provider_package/lib/pages/summary.dart';
-import 'file:///D:/Project/Learn/testing_provider_package/lib/provider/item_provider.dart';
+import 'package:testing_provider_package/helper/page_route.dart';
+import 'package:testing_provider_package/models/item.dart';
+import 'package:testing_provider_package/pages/summary.dart';
+import 'package:testing_provider_package/provider/item_provider.dart';
 
 class MyHomePage extends StatefulWidget {
   @override

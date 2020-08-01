@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
-
-import 'file:///D:/Project/Learn/testing_provider_package/lib/models/item.dart';
+import 'package:testing_provider_package/models/item.dart';
 
 class ItemProvider extends ChangeNotifier {
   List<Item> _itemList = itemList;
